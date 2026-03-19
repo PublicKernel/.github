@@ -68,21 +68,7 @@ Please refer to individual repositories for detailed contribution guidelines.
 
 ---
 
-## 🛠 Tech Stack
 
-- **Languages:** Python, C++, JavaScript  
-- **AI/ML:** scikit-learn, TensorFlow, PyTorch  
-- **Data:** Pandas, NumPy, SQL  
-- **Visualization:** Matplotlib, Seaborn, Plotly  
-- **Tools:** Git, Docker, APIs  
-
----
-
-## 📊 Workflow
-
-```bash
-data -> preprocessing -> modeling -> evaluation -> deployment
-```
 
 ## 💡 Philosophy
 
@@ -91,7 +77,7 @@ $ whoami
 PublicKernel
 
 $ focus
-AI + Data Science
+AI + Data Science + ML
 
 $ mission
 build intelligent systems for public good
