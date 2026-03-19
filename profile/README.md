@@ -1,5 +1,7 @@
 # PublicKernel
 
+[![Portfolio](https://img.shields.io/badge/Visit%20Website-black?style=flat-square&logo=vercel&logoColor=white)](https://publickernel.github.io/publickernel/)
+
 > Open-source AI and data systems for public impact.
 
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)
