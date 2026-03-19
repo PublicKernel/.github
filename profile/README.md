@@ -34,7 +34,8 @@ We develop scalable, transparent, and accessible solutions across machine learni
 - End-to-end data science projects  
 - Open datasets and benchmarking tools  
 - Developer-friendly ML utilities  
-- Automation and intelligent systems  
+- Automation and intelligent systems
+- Utility tools for everyday problems
 
 ---
 
@@ -81,7 +82,7 @@ Please refer to individual repositories for detailed contribution guidelines.
 
 ```bash
 data -> preprocessing -> modeling -> evaluation -> deployment
-
+```
 
 ## 💡 Philosophy
 
