@@ -86,6 +86,7 @@ data -> preprocessing -> modeling -> evaluation -> deployment
 
 ## 💡 Philosophy
 
+```bash
 $ whoami
 PublicKernel
 
@@ -97,6 +98,7 @@ build intelligent systems for public good
 
 $ status
 shipping soon
+```
 
 ## 🌐 Connect
 
